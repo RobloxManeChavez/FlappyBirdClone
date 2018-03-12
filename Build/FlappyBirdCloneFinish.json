@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "FlappyBirdCloneFinish.data.unityweb",
+"asmCodeUrl": "FlappyBirdCloneFinish.asm.code.unityweb",
+"asmMemoryUrl": "FlappyBirdCloneFinish.asm.memory.unityweb",
+"asmFrameworkUrl": "FlappyBirdCloneFinish.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
